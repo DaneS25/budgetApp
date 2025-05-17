@@ -2,8 +2,8 @@ import React from 'react';
 
 const Dashboard = () => {
   return (
-    <div>
-      <h1>Welcome to Budget Tracker</h1>
+    <div style={{ width: '100%', maxWidth: '400px' }}>
+      <h1>Budget Tracker</h1>
       {/* Add chart, table, etc here */}
     </div>
   );
